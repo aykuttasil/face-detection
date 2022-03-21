@@ -1,3 +1,9 @@
+# Setup
+- Activate **virtualenv**
+  - `source bin/activate`
+- `deactivate` comamnd for deactivating virtualenv
+- `python3 app.py` to run the app
+
 # Sources
 - <https://www.sinanerdinc.com/python-virtualenv-kullanimi>
 - <https://agnelselvan.medium.com/face-detection-in-python-9d98e593d80>
